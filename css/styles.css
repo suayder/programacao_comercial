@@ -1,0 +1,15 @@
+#msg{
+    border: 1px solid "#0FfF00";
+    background-color: blue
+}
+tr:hover{
+    background-color: darkorange;
+}
+.form{
+    background-image: "/home/suayder/Pictures/lena.png";
+    display: block;
+    margin-top: 0em;
+}
+input{
+    color: aqua;
+}
